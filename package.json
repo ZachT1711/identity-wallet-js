@@ -41,7 +41,7 @@
   "homepage": "https://github.com/3box/identity-wallet-js#readme",
   "dependencies": {
     "3id-blockchain-utils": "^0.3.3",
-    "@babel/runtime": "^7.4.5",
+    "@babel/runtime": "^7.10.2",
     "@ethersproject/hdnode": "5.0.0-beta.137",
     "@ethersproject/wallet": "5.0.0-beta.136",
     "did-jwt": "^0.1.3",
